@@ -1,0 +1,6 @@
+@GoogleAuthApi_HostAddress = http://localhost:5102
+
+GET {{GoogleAuthApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
